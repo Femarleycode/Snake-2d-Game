@@ -1,10 +1,10 @@
-package snake2d;
+package main;
 
 import java.awt.Color;
 
 import javax.swing.JFrame;
 
-public class Main {
+public class Runner {
 
 	public static void main(String[] args) {
 		JFrame obj = new JFrame();
