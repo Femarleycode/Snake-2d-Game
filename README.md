@@ -1,2 +1,5 @@
 # selflearning4_snake2d
-# selflearning4_snake2d-2
+
+A simple snake game
+
+# selflearning4_snake2d
